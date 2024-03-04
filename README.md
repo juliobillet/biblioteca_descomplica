@@ -1,6 +1,6 @@
-## Atividade Prática
+# Atividade Prática
 
-### **Atividade Prática 10 - Orientação a Objetos**
+## **Atividade Prática 10 - Orientação a Objetos**
 
 **Título da Prática:** Programar orientado a objetos
 
@@ -8,7 +8,7 @@
 
 **Materiais, Métodos e Ferramentas:** Para realizar esta prática vamos utilizar o PyCharm
 
-#### **Prática**
+### **Prática**
 
 Para aprimorarmos nosso conhecimento em orientação a objeto. Desenvolva um sistema de biblioteca em Python, aplicando os conceitos de orientação a objetos. Nesse sistema, deve ser possível um aluno alugar livros na biblioteca.
 
